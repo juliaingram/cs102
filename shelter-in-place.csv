@@ -1,0 +1,52 @@
+state,enacted,date_enacted,date_lifted,regional_partial,governor_party
+Alabama,TRUE,2020-04-04,2020-04-30,FALSE,Republican
+Alaska,TRUE,2020-03-28,2020-04-24,FALSE,Republican
+Arizona,TRUE,2020-03-31,2020-05-15,FALSE,Republican
+Arkansas,FALSE,,,FALSE,Republican
+California,TRUE,2020-03-19,,TRUE,Democratic
+Colorado,TRUE,2020-03-26,2020-04-26,FALSE,Democratic
+Connecticut,TRUE,2020-03-23,2020-05-20,FALSE,Democratic
+District of Columbia,TRUE,2020-04-01,2020-06-08,FALSE,Democratic
+Delaware,TRUE,2020-03-24,2020-05-31,FALSE,Democratic
+Florida,TRUE,2020-04-03,2020-05-04,FALSE,Republican
+Georgia,TRUE,2020-04-03,2020-04-30,FALSE,Republican
+Hawaii,TRUE,2020-03-25,2020-05-31,FALSE,Democratic
+Idaho,TRUE,2020-03-25,2020-04-30,FALSE,Republican
+Illinois,TRUE,2020-03-21,2020-05-31,FALSE,Democratic
+Indiana,TRUE,2020-03-24,2020-05-04,FALSE,Republican
+Iowa,FALSE,,,FALSE,Republican
+Kansas,TRUE,2020-03-30,2020-05-03,FALSE,Democratic
+Kentucky,TRUE,2020-03-26,,TRUE,Democratic
+Louisiana,TRUE,2020-03-23,2020-05-15,FALSE,Democratic
+Maine,TRUE,2020-04-02,2020-05-31,FALSE,Democratic
+Maryland,TRUE,2020-03-30,2020-05-15,FALSE,Republican
+Massachusetts,TRUE,2020-03-24,2020-05-15,FALSE,Republican
+Michigan,TRUE,2020-03-24,2020-05-28,FALSE,Democratic
+Minnesota,TRUE,2020-03-27,2020-05-17,FALSE,Democratic
+Mississippi,TRUE,2020-04-03,2020-04-27,FALSE,Republican
+Missouri,TRUE,2020-04-06,2020-05-03,FALSE,Republican
+Montana,TRUE,2020-03-28,2020-04-26,FALSE,Democratic
+Nebraska,FALSE,,,FALSE,Republican
+Nevada,TRUE,2020-04-01,2020-05-09,FALSE,Democratic
+New Hampshire,TRUE,2020-03-27,2020-05-31,FALSE,Republican
+New Jersey,TRUE,2020-03-21,2020-06-05,FALSE,Democratic
+New Mexico,TRUE,2020-03-24,2020-05-15,FALSE,Democratic
+New York,TRUE,2020-03-22,,TRUE,Democratic
+North Carolina,TRUE,2020-03-30,2020-05-22,FALSE,Democratic
+North Dakota,FALSE,,,FALSE,Republican
+Ohio,TRUE,2020-03-23,2020-05-29,FALSE,Republican
+Oklahoma,FALSE,,,FALSE,Republican
+Oregon,TRUE,2020-03-23,,TRUE,Democratic
+Pennsylvania,TRUE,2020-04-01,2020-06-04,FALSE,Democratic
+Rhode Island,TRUE,2020-03-28,2020-05-08,FALSE,Democratic
+South Carolina,TRUE,2020-04-07,2020-05-04,FALSE,Republican
+South Dakota,FALSE,,,FALSE,Republican
+Tennessee,TRUE,2020-03-31,2020-04-30,FALSE,Republican
+Texas,TRUE,2020-04-02,2020-04-30,FALSE,Republican
+Utah,FALSE,,,FALSE,Republican
+Vermont,TRUE,2020-03-25,2020-05-15,FALSE,Republican
+Virginia,TRUE,2020-03-30,2020-06-10,FALSE,Democratic
+Washington,TRUE,2020-03-25,,TRUE,Democratic
+West Virginia,TRUE,2020-03-24,2020-05-03,FALSE,Republican
+Wisconsin,TRUE,2020-03-25,2020-05-26,FALSE,Democratic
+Wyoming,FALSE,,,FALSE,Republican
